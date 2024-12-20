@@ -1,7 +1,7 @@
 # 🛜 WIFI Grabber 2.1 Beta
 
 <p align="center">
-  <img src="https://imgur.com/2ZRdLjq.png" alt="WIFI Password Grabber Logo" width="400">
+  <img src="https://imgur.com/dlF9XRB.png" alt="WIFI Password Grabber Logo" width="400">
 </p>
 
 ---
@@ -85,7 +85,7 @@
 
 Check out the demonstration video here:  
 
-[![Watch on YouTube](https://imgur.com/NlJVZS8tU6I.png)](https://youtu.be/NlJVZS8tU6I)
+[![Watch on YouTube](https://imgur.com/dlF9XRB.png)](https://youtu.be/NlJVZS8tU6I)
 
 ---
 
