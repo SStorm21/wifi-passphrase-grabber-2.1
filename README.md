@@ -76,6 +76,10 @@ only works on a windows 10/11 🪟
 
 ---
 
+## 🛠️use example 
+
+https://youtu.be/NlJVZS8tU6I
+
 ## 📥 Requirements
 
 The project requires several Python packages listed in the `requirements.txt` file. To install these dependencies, follow these steps:
@@ -91,6 +95,15 @@ The project requires several Python packages listed in the `requirements.txt` fi
 This will automatically install all the necessary dependencies for the script to work.
 
 ---
+
+---
+
+<p align="center">                     ⚠️ Disclaimer </p>
+
+---
+
+This tool is for educational purposes only! Do not use for illegal purposes.
+
 
 👨‍💻 **Contributions:**\
 Feel free to contribute or report issues by opening an [issue](#) or submitting a [pull request](#).
