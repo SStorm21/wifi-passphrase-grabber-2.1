@@ -6,97 +6,96 @@
 
 ---
 
-<p align="center">                     🚧 This project is under development 🚧</p>
+<p align="center">
+  🚧 **This project is currently under development. Stay tuned for updates!** 🚧
+</p>
 
 ---
 
 ## 📜 Overview
 
-This Python script extracts the SSIDs and passwords from the wireless interfaces of the machine it runs on and sends the data securely to your Discord webhook.
+**WIFI Grabber 2.1 Beta** is a Python script designed to extract SSIDs and passwords from the wireless interfaces of a machine and securely send the data to a Discord webhook.
 
 ---
 
 ## 📷 Screenshots
 
-only work with wifi interface 🛜 so if the device has no wifi-interface it wont work ❎
+### 🛜 **Works Only with WiFi Interface**
+> If the device lacks a WiFi interface, the script will not function ❎.
+
 <p align="center">
-  <img src="https://imgur.com/ONZIpLQ.png" alt="WIFI Password Grabber Logo">
-</p>
-full wifi info 🛜
-<p align="center">
-  <img src="https://imgur.com/CivlhMu.png" alt="WIFI Password Grabber Logo" width="500">
+  <img src="https://imgur.com/ONZIpLQ.png" alt="WiFi Interface Check">
 </p>
 
-ssids and passwords 📶
+### 🛜 **Full WiFi Information**
 <p align="center">
-  <img src="https://imgur.com/keaxdEK.png" alt="WIFI Password Grabber Logo">
+  <img src="https://imgur.com/CivlhMu.png" alt="Full WiFi Info" width="500">
 </p>
 
-only works on a windows 10/11 🪟
+### 📶 **SSIDs and Passwords**
+<p align="center">
+  <img src="https://imgur.com/keaxdEK.png" alt="SSIDs and Passwords">
+</p>
 
-# Interface and Workflow
+> **Note:** This script is compatible only with **Windows 10/11** 🪟.
 
 ---
 
-### 🔧 New Features
+## 🔧 New Features
 
-- **New UI**: Updated with a more intuitive and modern design.
-- **EXE Export**: Easily export the script as a standalone executable for wider usage.
-- **Obfuscation**: Added functionality to obfuscate the script for enhanced security.
-- **Information Retrieval Options**:
-  - Grab **all information** from wireless interfaces.
+### ✨ **What's New in 2.1 Beta**
+- **Modernized UI**: Enhanced with a sleek, intuitive design.
+- **EXE Export**: Convert the script into a standalone executable for wider distribution.
+- **Obfuscation**: Secure your script with built-in obfuscation options.
+- **Flexible Information Retrieval**:
+  - Grab **complete wireless interface details**.
   - Retrieve **SSIDs and passwords only**.
-- **Language Support**:
+- **Multilingual Support**:
   - Added support for **Arabic** and **English**, toggleable in the settings.
 
-### Important for Arabic Users:
+---
 
-> To use the application with Arabic, ensure your keyboard is set to English before interacting with Tkinter UI, as it does not fully support Arabic text rendering.
+### 🌍 **Important for Arabic Users**
+> **Note:** To use the Arabic version, ensure your keyboard is set to **English** while interacting with the Tkinter UI. Tkinter has limited Arabic text rendering capabilities.
 
 ---
 
 ## 📌 Notes
 
-- ❗ This script works exclusively on **Windows** machines.
-- 🛡️ Please use responsibly and ensure compliance with all applicable laws.
+- ❗ This script is specifically designed for **Windows** platforms.
+- 🛡️ Always use responsibly and adhere to all applicable laws.
 
 ---
 
 ## 🌍 Language Versions
 
-### English Version
+### **English Version**
 <p align="center">
-  <img src="https://imgur.com/2ZRdLjq.png" alt="WIFI Password Grabber Logo" width="400">
+  <img src="https://imgur.com/2ZRdLjq.png" alt="English Version" width="400">
 </p>
 
-### Arabic Version
+### **Arabic Version**
 <p align="center">
-  <img src="https://imgur.com/FjYIKK7.png" alt="WIFI Password Grabber Logo" width="400">
+  <img src="https://imgur.com/FjYIKK7.png" alt="Arabic Version" width="400">
 </p>
 
 ---
 
-## 🛠️use example 
+## 🛠️ Usage Example
 
-https://youtu.be/NlJVZS8tU6I
+Check out the demonstration video here:  
+
+[![Watch on YouTube](https://imgur.com/NlJVZS8tU6I.png)](https://youtu.be/NlJVZS8tU6I)
+
+---
 
 ## 📥 Requirements
 
-The project requires several Python packages listed in the `requirements.txt` file. To install these dependencies, follow these steps:
+To use this project, you'll need to install the required Python packages listed in `requirements.txt`. Follow these steps:
 
-1. Ensure you have Python installed on your system.
+1. Ensure Python is installed on your machine.
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
 4. Run the following command:
    ```bash
    pip install -r requirements.txt
-   ```
-
-This will automatically install all the necessary dependencies for the script to work.
-
----
-
-
-👨‍💻 **Contributions:**\
-Feel free to contribute or report issues by opening an [issue](#) or submitting a [pull request](#).
-
