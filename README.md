@@ -96,14 +96,6 @@ This will automatically install all the necessary dependencies for the script to
 
 ---
 
----
-
-<p align="center">                     ⚠️ Disclaimer </p>
-
----
-
-This tool is for educational purposes only! Do not use for illegal purposes.
-
 
 👨‍💻 **Contributions:**\
 Feel free to contribute or report issues by opening an [issue](#) or submitting a [pull request](#).
