@@ -98,4 +98,15 @@ To use this project, you'll need to install the required Python packages listed 
 3. Navigate to the project directory.
 4. Run the following command:
    ```bash
+   
    pip install -r requirements.txt
+   
+   ```
+## 💼 license
+
+By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
+
+
+
+
+
