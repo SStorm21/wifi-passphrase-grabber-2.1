@@ -1,4 +1,4 @@
-# 🛜 WIFI Grabber 2.1 Beta
+# 🛜 Storm WIFI Grabber 2.1 Beta
 
 <p align="center">
   <img src="https://imgur.com/dlF9XRB.png" alt="WIFI Password Grabber Logo" width="400">
