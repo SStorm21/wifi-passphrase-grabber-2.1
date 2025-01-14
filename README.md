@@ -33,9 +33,7 @@
 </p>
 
 ### 📶 **SSIDs and Passwords**
-<p align="center">
-  <img src="https://imgur.com/keaxdEK.png" alt="SSIDs and Passwords">
-</p>
++ you can find it the the image file
 
 > **Note:** This script is compatible only with **Windows 10/11** 🪟.
 
