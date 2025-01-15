@@ -87,7 +87,7 @@ Check out the demonstration video here:
 
 ---
 
-## 📥 Requirements
+## 📥 install & run
 
 To use this project, you'll need to install the required Python packages listed in `requirements.txt`. Follow these steps:
 
@@ -100,6 +100,10 @@ To use this project, you'll need to install the required Python packages listed 
    pip install -r requirements.txt
    
    ```
+   
+### 🗃️ or you can run the launcher.bat 
+
+
 ## 💼 license
 
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
