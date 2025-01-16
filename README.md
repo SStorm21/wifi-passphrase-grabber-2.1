@@ -4,13 +4,10 @@
   <img src="https://imgur.com/fBOGRkS.png" alt="WIFI Password Grabber Logo" width="400">
 </p>
 
----
-
 <p align="center">
   🚧 **This project is currently under development. Stay tuned for updates!** 🚧
 </p>
 
----
 
 ## 📜 Overview
 
