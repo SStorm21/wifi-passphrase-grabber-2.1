@@ -101,8 +101,7 @@ To use this project, you'll need to install the required Python packages listed 
    
    ```
    
-### 🗃️ or you can run the launcher.bat 
-
+### 🗃️ or you can run the install requirements.bat --> launcher.bat
 
 ## 💼 license
 
