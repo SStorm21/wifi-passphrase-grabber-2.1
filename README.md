@@ -62,15 +62,10 @@
 ## 🌍 Language Versions
 
 ### **English Version**
-<p align="center">
-  <img src="https://imgur.com/2ZRdLjq.png" alt="English Version" width="400">
-</p>
+![Image](https://github.com/user-attachments/assets/48b786f2-fac4-4fe8-9c88-f22db7d738cc)
 
 ### **Arabic Version**
-<p align="center">
-  <img src="https://imgur.com/FjYIKK7.png" alt="Arabic Version" width="400">
-</p>
-
+![Image](https://github.com/user-attachments/assets/1e4b171e-b28e-4795-a298-a7f33e2a3691)
 ---
 
 ## 🛠️ Usage Example
