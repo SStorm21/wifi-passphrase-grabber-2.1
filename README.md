@@ -20,15 +20,20 @@
 ### 🛜 **Works Only with WiFi Interface**
 > If the device lacks a WiFi interface, the script will not function ❎.
 
-![Image](https://github.com/user-attachments/assets/06517fc7-2474-46c2-887c-4b1ad88510cd)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06517fc7-2474-46c2-887c-4b1ad88510cd">
+</p>
 ### 🛜 **Full WiFi Information**
 
-![Image](https://github.com/user-attachments/assets/c5926079-7322-419f-b179-f120c3a13b54)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5926079-7322-419f-b179-f120c3a13b54">
+</p>
 
 ### 📶 **SSIDs and Passwords**
-![Image](https://github.com/user-attachments/assets/cb162a97-cc0b-437f-9604-f6a4ba83a14f)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb162a97-cc0b-437f-9604-f6a4ba83a14f">
+</p>
 > **Note:** This script is compatible only with **Windows 10/11** 🪟.
 
 ---
