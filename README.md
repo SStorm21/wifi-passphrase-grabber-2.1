@@ -14,6 +14,8 @@
 
 ---
 
+⚠️ Use Restriction: Content here is provided only for lawful and defensive purposes — any malicious use, distribution, or deployment is prohibited and may lead to legal consequences. The maintainer expressly disclaims responsibility for and liability arising from any misuse; users assume all risk.
+
 ## 📷 Screenshots
 
 ### 🛜 **Works Only with WiFi Interface**
