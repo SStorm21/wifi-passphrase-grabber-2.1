@@ -8,6 +8,15 @@
   🚧 **This project is currently under development. Stay tuned for updates!** 🚧
 </p>
 
+⚠️ WARNING — Research/Education Only
+
+This repository contains malware-related code and is provided **solely for educational and defensive research**.  
+- Do **NOT** use against systems you do not own or lack explicit permission to test.  
+- Run only inside isolated labs or sandboxes.  
+- Misuse may be illegal and is strictly prohibited.
+
+By accessing this repository, you agree to use it responsibly for research purposes only.
+
 
 ## 📜 Overview
 
