@@ -16,6 +16,16 @@
 
 ⚠️ Use Restriction: Content here is provided only for lawful and defensive purposes — any malicious use, distribution, or deployment is prohibited and may lead to legal consequences. The maintainer expressly disclaims responsibility for and liability arising from any misuse; users assume all risk.
 
+
+## ❓ simple setup
+
+https://github.com/user-attachments/assets/db34d5d7-a3b0-4712-9665-1aceb2d67129
+
+https://github.com/user-attachments/assets/6b06914b-3135-4867-8366-ef743e749d7c
+
+> **Note:** make sure to install the font.
+
+
 ## 📷 Screenshots
 
 ### 🛜 **Works Only with WiFi Interface**
