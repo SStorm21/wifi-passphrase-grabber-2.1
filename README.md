@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06517fc7-2474-46c2-887c-4b1ad88510cd">
 </p>
+
 ### 🛜 **Full WiFi Information**
 
 <p align="center">
@@ -35,6 +36,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cb162a97-cc0b-437f-9604-f6a4ba83a14f">
 </p>
+
 > **Note:** This script is compatible only with **Windows 10/11** 🪟.
 
 ---
