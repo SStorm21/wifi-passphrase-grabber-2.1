@@ -22,9 +22,14 @@
 
 ## ❓ simple setup
 
+installing python
+
 https://github.com/user-attachments/assets/db34d5d7-a3b0-4712-9665-1aceb2d67129
 
-https://github.com/user-attachments/assets/6b06914b-3135-4867-8366-ef743e749d7c
+settin-up the tool
+
+https://github.com/user-attachments/assets/3ae0993c-d00c-4d69-bf5c-be3aad374aaf
+
 
 > **Note:** make sure to install the font.
 
