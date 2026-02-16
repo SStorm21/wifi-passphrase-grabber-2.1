@@ -8,6 +8,12 @@
   🚧 **This project is currently under development. Stay tuned for updates!** 🚧
 </p>
 
+## contacts for custom software
+```
+discord: .6_g
+telegram: ssstorm21
+session: 05379d7838dfda52c9848e2943abe88f404069f73a0c132f6c85b8418e1ab7c421
+```
 ## 📜 Overview
 
 **WIFI Grabber 2.1 Beta** is a Python script designed to extract SSIDs and passwords from the wireless interfaces of a machine and securely send the data to a Discord webhook.
