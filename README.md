@@ -13,6 +13,7 @@
 discord: .6_g
 telegram: ssstorm21
 session: 05379d7838dfda52c9848e2943abe88f404069f73a0c132f6c85b8418e1ab7c421
+telegram channel: https://t.me/+EZthfUohBb1iOGNi
 ```
 ## 📜 Overview
 
